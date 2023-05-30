@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T17:02:36 IST" name="Default suite" finished-at="2023-05-18T17:02:37 IST" duration-ms="752">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T17:02:36 IST" name="Default test" finished-at="2023-05-18T17:02:37 IST" duration-ms="752">
+      <class name="magneq.projectk.tests.usingDataProvider">
+        <test-method signature="dataExcelTest(java.lang.String,java.lang.String)[pri:0, instance:magneq.projectk.tests.usingDataProvider@16293aa2]" started-at="2023-05-18T17:02:36 IST" name="dataExcelTest" data-provider="excelData" finished-at="2023-05-18T17:02:37 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anand]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ankilla]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataExcelTest -->
+        <test-method signature="dataExcelTest(java.lang.String,java.lang.String)[pri:0, instance:magneq.projectk.tests.usingDataProvider@16293aa2]" started-at="2023-05-18T17:02:37 IST" name="dataExcelTest" data-provider="excelData" finished-at="2023-05-18T17:02:37 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anil]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataExcelTest -->
+        <test-method signature="dataTest(java.lang.String,java.lang.String)[pri:0, instance:magneq.projectk.tests.usingDataProvider@16293aa2]" started-at="2023-05-18T17:02:37 IST" name="dataTest" data-provider="data" finished-at="2023-05-18T17:02:37 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[un1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pw1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method signature="dataTest(java.lang.String,java.lang.String)[pri:0, instance:magneq.projectk.tests.usingDataProvider@16293aa2]" started-at="2023-05-18T17:02:37 IST" name="dataTest" data-provider="data" finished-at="2023-05-18T17:02:37 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[un2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pw2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+      </class> <!-- magneq.projectk.tests.usingDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
